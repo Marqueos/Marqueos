@@ -1,11 +1,29 @@
-Olá, me chamo Marcos e é um prazer ter você por aqui!👋.
+# 👋 Olá, sou Marcos!
 
-Sou Desenvolvedor Full-Stack | JavaScript | TypeScript | ReactJS | React Native | Designer
+Bem-vindo ao meu espaço no Github. Sou um estudante de graduação em Engenharia de Software e Análise e Desenvolvimento de Sistemas, focando especialmente no desenvolvimento backend de sistemas, com ênfase em Python.
 
-Aspirante à UX Design, com experiência como web designer e designer gráfico. Atualmente estudo para o aprimoramento das habilidades de desenvolvimento web, ux/ui design.
+## 🚀 Sobre Mim
 
-🌱Atualmente trabalhando e estudando com Full-Stack ux e ui design (Desenvolvedor Full-Stack, JavaScript, TypeScript, ReactJS, React Native e Designer)
+- 👨‍💻 Desenvolvedor Python / Java
+- 🌱 Aspirante a Desenvolvedor de Software
+- 📚 Atualmente aprimorando minhas habilidades em desenvolvimento backend
 
-👯Atualmente buscando trabalho 
+## 📖 Tecnologias e Linguagens
 
-📫Como entrar em contato comigo: guilhermemarcos1314@gmail.com
+- Python
+- Java
+- C
+- C++
+- C#
+- SQL
+- Javascript
+
+## 📫 Contato
+
+Você pode entrar em contato comigo através do meu e-mail: guilhermemarcos1314@gmail.com
+
+## 🌐 Conecte-se comigo
+
+- [LinkedIn](www.linkedin.com/in/marcos-guilherme-60895a22a)
+
+Fique à vontade para explorar meus repositórios e colaborar nos projetos. Vamos aprender e crescer juntos! 🌱
