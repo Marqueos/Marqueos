@@ -1,29 +1,49 @@
-# 👋 Olá, sou Marcos!
+<p align="right"><a href="README.pt-br.md">🇧🇷 Português</a> · 🇺🇸 English</p>
 
-Bem-vindo ao meu espaço no Github. Sou um estudante de graduação em Engenharia de Software e Análise e Desenvolvimento de Sistemas, focando especialmente no desenvolvimento backend de sistemas, com ênfase em Python.
+<h1 align="center">👋 Hi, I'm Marcos!</h1>
 
-## 🚀 Sobre Mim
+<p align="center">
+  Software Engineer | Backend Developer & AI Systems Builder
+</p>
 
-- 👨‍💻 Desenvolvedor Python / Java
-- 🌱 Aspirante a Desenvolvedor de Software
-- 📚 Atualmente aprimorando minhas habilidades em desenvolvimento backend
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
+</p>
 
-## 📖 Tecnologias e Linguagens
+## 🚀 About me
 
-- Python
-- Java
-- C
-- C++
-- C#
-- SQL
-- Javascript
+I'm a software engineer with a background in Software Engineering and Systems Analysis & Development, focused on backend development and, more recently, on **applied AI systems** — autonomous agents, automation, and local inference infrastructure.
 
-## 📫 Contato
+- 🧠 Building AI agents and autonomous systems, including a personal assistant designed around a biomimetic architecture
+- 🛠️ Providing AI automation services (WhatsApp bots, chatbots, integrations) for small and medium businesses
+- ☁️ Running my own infrastructure: an always-on Ubuntu server and a local GPU (RTX 3060) for inference and fine-tuning
+- 📚 Continuously studying LLM techniques: fine-tuning, QLoRA, RAG, quantization, and model merging
 
-Você pode entrar em contato comigo através do meu e-mail: guilhermemarcos1314@gmail.com
+## 🧰 Tech stack
 
-## 🌐 Conecte-se comigo
+**Languages**
+`Python` · `Java` · `C` · `C++` · `C#` · `SQL` · `JavaScript`
 
-- [LinkedIn](www.linkedin.com/in/marcos-guilherme-60895a22a)
+**AI & Automation**
+`LiteLLM` · `n8n` · `Ollama` · `Hugging Face` · `RAG` · `Fine-tuning (LoRA/QLoRA)`
 
-Fique à vontade para explorar meus repositórios e colaborar nos projetos. Vamos aprender e crescer juntos! 🌱
+**Infra & DevOps**
+`Docker` · `Linux (Ubuntu)` · `Tailscale` · `Git/GitHub`
+
+## 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Marqueos&show_icons=true&theme=default" alt="GitHub stats" />
+</p>
+
+## 📫 Contact
+
+- ✉️ Email: guilhermemarcos1314@gmail.com
+- 💼 LinkedIn: [marcos-guilherme-60895a22a](https://www.linkedin.com/in/marcos-guilherme-60895a22a)
+
+---
+
+<p align="center"><i>Feel free to explore my repositories, suggest ideas, or collaborate on projects. Let's learn and build together! 🌱</i></p>
